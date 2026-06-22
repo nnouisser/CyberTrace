@@ -111,7 +111,6 @@ python inject_results.py
 
 # 6. Import Kibana dashboard
 
-```bash
 curl -X POST "http://localhost:5601/api/saved_objects/_import?overwrite=true" \
   -H "kbn-xsrf: true" \
   --form file=@kibana/cybertrace_dashboard.ndjson
