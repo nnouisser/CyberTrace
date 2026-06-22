@@ -64,7 +64,9 @@ It detects anomalies with **97% accuracy**.
 
 ### Model Performance
 
-![Model Results](docs/screenshots/colab_training.png)
+![Model Results](docs/screenshots/colab_training.PNG)
+![Model Results](docs/screenshots/mat.PNG)
+
 
 ### Severity Levels
 
@@ -123,7 +125,7 @@ curl -X POST "http://localhost:5601/api/saved_objects/_import?overwrite=true" \
 
 ![Discover](docs/screenshots/Discover.PNG)
 
-### Dashboards
+### Dashboard
 
 ![Dashboard 1](docs/screenshots/kibana_dashboard1.PNG)
 
