@@ -115,12 +115,15 @@ curl -X POST "http://localhost:5601/api/saved_objects/_import?overwrite=true" \
   -H "kbn-xsrf: true" \
   --form file=@kibana/cybertrace_dashboard.ndjson
 ```
-
-## 📊 Dashboard Screenshots
-
+## 📸 Screenshots
+###  Zeek Output
 ![Zeek Output](docs/screenshots/zeek.png)
 
+### Kibana Discover
+
 ![Discover](docs/screenshots/Discover.PNG)
+
+### Dashboards
 
 ![Dashboard 1](docs/screenshots/kibana_dashboard1.PNG)
 
@@ -129,6 +132,9 @@ curl -X POST "http://localhost:5601/api/saved_objects/_import?overwrite=true" \
 ![Dashboard 3](docs/screenshots/kibana_dashboard3.PNG)
 
 ![Dashboard 4](docs/screenshots/kibana_dashboard4.PNG)
+
+### N8N Workflow
+
 
 ![N8N Workflow](docs/screenshots/n8n_workflow.PNG)
 
