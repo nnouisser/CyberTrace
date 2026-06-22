@@ -120,17 +120,17 @@ curl -X POST "http://localhost:5601/api/saved_objects/_import?overwrite=true" \
 
 ![Zeek Output](docs/screenshots/zeek.png)
 
-![Discover](docs/screenshots/Discover.png)
+![Discover](docs/screenshots/Discover.PNG)
 
-![Dashboard 1](docs/screenshots/kibana_dashboard1.png)
+![Dashboard 1](docs/screenshots/kibana_dashboard1.PNG)
 
-![Dashboard 2](docs/screenshots/kibana_dashboard2.png)
+![Dashboard 2](docs/screenshots/kibana_dashboard2.PNG)
 
-![Dashboard 3](docs/screenshots/kibana_dashboard3.png)
+![Dashboard 3](docs/screenshots/kibana_dashboard3.PNG)
 
-![Dashboard 4](docs/screenshots/kibana_dashboard4.png)
+![Dashboard 4](docs/screenshots/kibana_dashboard4.PNG)
 
-![N8N Workflow](docs/screenshots/n8n_workflow.png)
+![N8N Workflow](docs/screenshots/n8n_workflow.PNG)
 
 ---
 
